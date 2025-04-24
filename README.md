@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Internet Speed Tracker API (FastAPI Project)
 
 A simple yet unique Python backend project using **FastAPI** that checks internet speed and logs the result. Designed to be impressive for recruiter portfolios.
@@ -19,3 +20,6 @@ pip install -r requirements.txt
 
 # Run server
 uvicorn main:app --reload
+=======
+# Internet_Speed_Logger_API
+>>>>>>> 03b83a229b3312ca882fdeb252ede36ce66d261c
